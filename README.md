@@ -2,7 +2,7 @@
 
 I'm into making cool things ツ
 
-**[Website](https://kvasimon.co)** — **[Twitter](https://twitter.com/kvasimon)** — **[Figma](https://figma.com/@simon)**
+**[Website](https://símon.com)** — **[Twitter](https://twitter.com/simrdd)** — **[Figma](https://figma.com/@simon)**
 
 <!--
 **kvasimon/kvasimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
