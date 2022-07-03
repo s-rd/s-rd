@@ -1,4 +1,4 @@
-# **[Website](https://símon.com)** — **[Twitter](https://twitter.com/sitatsimon)** — **[Instagram](https://instagram.com/sitatsimon)** — **[Arena](https://are.na/simon)** — **[Figma](https://figma.com/@simon)**
+# **[Website](https://símon.com)** — **[Twitter](https://twitter.com/srdtxt)** — **[Instagram](https://instagram.com/srd.jpg)** — **[Arena](https://are.na/simon)** — **[Figma](https://figma.com/@simon)**
 
 <!--
 **kvasimon/kvasimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
