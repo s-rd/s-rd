@@ -1,4 +1,15 @@
-# **[Website](https://símon.com)** — **[Twitter](https://twitter.com/srdtxt)** — **[Instagram](https://instagram.com/srd.jpg)** — **[Arena](https://are.na/simon)** — **[Figma](https://figma.com/@simon)**
+✌︎
+
+links
+
+| what      | where                                         |
+|:--------- |:--------------------------------------------- |
+| webbie    | **[símon.com](https://símon.com)**            |
+| instagram | **[@srd.jpg](https://instagram.com/srd.jpg)** |
+| mastodon  | **[@srdd](https://mastodon.social/@srdd)**    |
+| arena     | **[@simon](https://are.na/simon)**            |
+| figma     | **[@simon](https://figma.com/@simon)**        |
+
 
 <!--
 **kvasimon/kvasimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
