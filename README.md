@@ -4,6 +4,7 @@ links
 
 | what      | where                                         |
 |:--------- |:--------------------------------------------- |
+| studio    | **[noko.st](https://noko.st)**                |
 | webbie    | **[símon.com](https://símon.com)**            |
 | instagram | **[@srd.jpg](https://instagram.com/srd.jpg)** |
 | mastodon  | **[@srdd](https://mastodon.social/@srdd)**    |
