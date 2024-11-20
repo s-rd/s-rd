@@ -4,10 +4,10 @@ links
 
 | what      | where                                         |
 |:--------- |:--------------------------------------------- |
-| studio    | **[noko.st](https://noko.st)**                |
+| studio    | **[noko.st](https://noko.studio)**            |
 | webbie    | **[símon.com](https://símon.com)**            |
 | instagram | **[@srd.jpg](https://instagram.com/srd.jpg)** |
-| mastodon  | **[@srdd](https://mastodon.social/@srdd)**    |
+| mastodon  | **[@simon](https://noko.social/@simon)**      |
 | arena     | **[@simon](https://are.na/simon)**            |
 | figma     | **[@simon](https://figma.com/@simon)**        |
 
